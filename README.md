@@ -22,7 +22,7 @@ The two main steps are needed for the configuration of *CarLensCollectionViewLay
 #### Step 1
 Assign `CardCollectionViewLayout` to yours collection view layout:
 ```swift
-    collectionViewitems.collectionViewLayout = CarLensCollectionViewLayout()
+    collectionViewitems.collectionViewLayout = CardCollectionViewLayout()
 ```
 
 
@@ -34,7 +34,7 @@ Assign `CardCollectionViewLayout` to yours collection view layout:
  
 #### Cell
 
-class CartCollectionViewCell: CarLensCollectionViewCell {
+class CartCollectionViewCell: CardCollectionViewCell {
 
 /*
     Here you will be your items that you want animate them, based your business
