@@ -5,7 +5,7 @@ An easy-to-use Collection View Layout for card-like animation 🎉
 Idea is show most important part that enable you to modify animation based your needs.
 
 <p align="center">
-	<img src="https: .gif" width="250">
+	<img src="https://github.com/ragaie/Card-collectionView-Layout/blob/main/showCase.gif" width="250">
 </p>
 
 ## Requirements
@@ -98,7 +98,7 @@ CartCollectionViewCell.collectionViewLayout = CardCollectionViewLayout(options: 
 ## About
 
 The base source code created ❤️ by [Netguru](https://netguru.co) and maintained by [Anna-Mariia Shkarlinska](https://github.com/anyashka).
-This demo and modification create by [Ragaie] 
+This demo and modification create by [Ragaie]  (https://github.com/ragaie).
 
 ### License
 
