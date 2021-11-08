@@ -10,7 +10,7 @@ Idea is show most important part that enable you to modify animation based your 
 
 ## Requirements
 
-*CarLensCollectionViewLayout* is written in **Swift 4.2**.
+*CardCollectionViewLayout* is written in **Swift 4.2**.
 
 
 ## Usage
