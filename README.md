@@ -98,7 +98,7 @@ CartCollectionViewCell.collectionViewLayout = CardCollectionViewLayout(options: 
 ## About
 
 The base source code created ❤️ by [Netguru](https://netguru.co) and maintained by [Anna-Mariia Shkarlinska](https://github.com/anyashka).
-This demo and modification create by [Ragaie]  (https://github.com/ragaie).
+This demo and modification create by [Ragaie](https://github.com/ragaie).
 
 ### License
 
