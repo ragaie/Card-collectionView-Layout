@@ -12,12 +12,9 @@ Idea is show most important part that enable you to modify animation based your 
 
 *CardCollectionViewLayout* is written in **Swift 4.2**.
 
-
-## Usage
-
 ### Basic Usage
 
-The two main steps are needed for the configuration of *CarLensCollectionViewLayout*:
+The two main steps are needed for the configuration of *CardCollectionViewLayout*:
 
 #### Step 1
 Assign `CardCollectionViewLayout` to yours collection view layout:
@@ -38,6 +35,7 @@ class CartCollectionViewCell: CardCollectionViewCell {
 
 /*
     Here you will be your items that you want animate them, based your business
+    
     At this demo we scale all items card from cell.
 */
 
@@ -93,11 +91,12 @@ CartCollectionViewCell.collectionViewLayout = CardCollectionViewLayout(options: 
 
 ## Installation
 
-## take files inside External support files  copy to your project
+## take files inside folder (External support files)  copy them  to your project
 
 ## About
 
-The base source code created ❤️ by [Netguru](https://netguru.co) and maintained by [Anna-Mariia Shkarlinska](https://github.com/anyashka).
+The base source code created by [Netguru](https://netguru.co) and maintained by [Anna-Mariia Shkarlinska](https://github.com/anyashka).
+
 This demo and modification create by [Ragaie](https://github.com/ragaie).
 
 ### License
